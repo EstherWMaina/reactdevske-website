@@ -40,7 +40,7 @@ const events: EventData[] = [
     title: 'Monthly Online Standups',
     description:
       'Monthly open calls on Google Meet  bringing together people from different communities.',
-    image_url: '/images/physical_meetup.jpg',
+    image_url: 'https://res.cloudinary.com/reactjs-devs-ke/image/upload/v1678532588/website-images/no-image_nnaxwk.jpg',
     target:
       'https://kommunity.com/reactjs-developer-community-kenya-reactdevske/events',
   },
